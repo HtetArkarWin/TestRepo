@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('something3')
     print_hi('another')
     print_hi('second')
+    print_hi('Commit from browser')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
