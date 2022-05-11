@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('something')
     print_hi('another')
+    print_hi('second')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
